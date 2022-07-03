@@ -2,5 +2,8 @@ h1{
     color: white;
     font-family: 20px;
     background-color: red;
-    
+
+}
+p{
+    width: 20px;
 }
